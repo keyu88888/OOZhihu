@@ -1,8 +1,10 @@
-package com.oo.zhihu;
+package com.oo.zhihu.ui;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.oo.zhihu.R;
 import com.oo.zhihu.ui.WXHotActivity;
 
 public class MainActivity extends AppCompatActivity {
